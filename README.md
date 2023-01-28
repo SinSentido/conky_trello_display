@@ -1,1 +1,1 @@
-# conky_trello_display
+# python script to show trello boards on linux desktop with conky
